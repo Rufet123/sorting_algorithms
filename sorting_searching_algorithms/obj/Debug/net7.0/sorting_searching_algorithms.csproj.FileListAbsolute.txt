@@ -1,0 +1,15 @@
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/bin/Debug/net7.0/sorting_searching_algorithms
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/bin/Debug/net7.0/sorting_searching_algorithms.deps.json
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/bin/Debug/net7.0/sorting_searching_algorithms.runtimeconfig.json
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/bin/Debug/net7.0/sorting_searching_algorithms.dll
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/bin/Debug/net7.0/sorting_searching_algorithms.pdb
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/sorting_searching_algorithms.csproj.AssemblyReference.cache
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/sorting_searching_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/sorting_searching_algorithms.AssemblyInfoInputs.cache
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/sorting_searching_algorithms.AssemblyInfo.cs
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/sorting_searching_algorithms.csproj.CoreCompileInputs.cache
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/sorting_searching_algorithms.dll
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/refint/sorting_searching_algorithms.dll
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/sorting_searching_algorithms.pdb
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/sorting_searching_algorithms.genruntimeconfig.cache
+/Volumes/Mac/C#/sorting_seacing_algorthms/sorting_searching_algorithms/sorting_searching_algorithms/obj/Debug/net7.0/ref/sorting_searching_algorithms.dll
